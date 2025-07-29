@@ -1,0 +1,90 @@
+"🔹 Basic Analysis
+1. How many total employees are there?
+2. How many employees have left the company?
+3. What is the attrition rate (percentage)?
+4. How many employees are older than 40?
+5. Show the list of employees who have worked for more than 10 years.
+6. Show attrition count by department.
+7. Show attrition count by job role.
+8. Show average monthly income by department.
+9. Show average total working years by education field.
+10. Show number of employees by marital status.",,,,,,,,,,,,,,,,,,
+,,,,,,,,,,"🔹 Attrition-Specific
+1. Count how many employees with overtime left the company. (skip if Overtime column missing)
+2. Find the average income of employees who left vs. who stayed.
+3. Classify employees into salary bands (low, medium, high).
+4. Create a flag for ""high risk"" employees (low satisfaction + short tenure).
+5. Classify work-life balance as 'Poor', 'Average', 'Good', 'Excellent'.
+6. Is attrition higher for employees with no stock options?
+7. Is attrition more common in employees with fewer training sessions?
+8. Which job role has the highest attrition rate?
+9. Which age group has the most attrition?
+10. Is attrition rate different by gender?",,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+"🔹 Advanced Queries & Ranking
+1. Rank employees by monthly income within each department.
+2. Calculate cumulative attritions by years at company.
+3. Show the top 3 job roles with highest attrition per department.
+4. List employees who haven’t had a promotion in the last 5 years.
+5. Show average MonthlyIncome per Education level.
+6. List employees who have worked in more than 3 companies.
+7. Find job roles where average working years > 10.
+8. Which department has the most senior employees (Age > 50)?
+9. Compare average attrition rate of single vs married employees.
+10. Show top 5 highest paid employees in each department.
+11. Find employees who earn more than their department average.
+12. Find departments with below-average attrition.
+13. Show monthly income quartiles (1st, 2nd, 3rd, 4th).
+14. What % of employees have job satisfaction of 4?
+15. Find departments with employees having >5 years in current role and 0 promotions.",,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
