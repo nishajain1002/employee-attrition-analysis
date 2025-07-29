@@ -1,1 +1,25 @@
 # employee-attrition-analysis
+📊 Employee Attrition Analysis – Excel | SQL | Power BI
+This project analyzes why employees leave an organization using real-world HR data from Kaggle.
+I cleaned the data in Excel, explored it using SQL, and visualized key insights in Power BI.
+
+Key insights include:
+
+High attrition in 25–35 age group and sales/lab tech roles
+
+Impact of work-life balance, job satisfaction, and promotions on attrition
+
+Risk flags created using custom logic to identify high-risk employees
+
+🔧 Tools Used: Excel, MySQL, Power BI, DAX
+📁 Files Included: Dataset, SQL queries, screenshots, and summary
+
+<img width="2356" height="1262" alt="image" src="https://github.com/user-attachments/assets/7fc48abd-a9dc-49b6-ba11-bcc6ea9303c3" />
+
+<img width="2418" height="1348" alt="image" src="https://github.com/user-attachments/assets/e92a6446-3b1f-475c-ac2d-0c3f98b71714" />
+
+<img width="2454" height="1354" alt="image" src="https://github.com/user-attachments/assets/0e5d0788-1e9b-4f92-8236-4e733d35b939" />
+
+
+
+
