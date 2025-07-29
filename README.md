@@ -24,7 +24,6 @@ Risk flags created using custom logic to identify high-risk employees
 
 <img width="3420" height="2224" alt="image" src="https://github.com/user-attachments/assets/f8ba21a2-31f2-4893-9208-09df641e9339" />
 
-<img width="2432" height="1366" alt="image" src="https://github.com/user-attachments/assets/fcadf588-c7d3-43ba-b988-a7397c3c5798" />
 
 
 
