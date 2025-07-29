@@ -14,6 +14,14 @@ Risk flags created using custom logic to identify high-risk employees
 🔧 Tools Used: Excel, MySQL, Power BI, DAX
 📁 Files Included: Dataset, SQL queries, screenshots, and summary
 
+👩‍💻 Author
+
+**Nisha Jain**  
+Data Analyst | SQL • Excel • Power BI | Aspiring BI Specialist  
+
+🔗 [LinkedIn](www.linkedin.com/in/nisha-jain10)
+
+
 <img width="2356" height="1262" alt="image" src="https://github.com/user-attachments/assets/7fc48abd-a9dc-49b6-ba11-bcc6ea9303c3" />
 
 <img width="2418" height="1348" alt="image" src="https://github.com/user-attachments/assets/e92a6446-3b1f-475c-ac2d-0c3f98b71714" />
